@@ -1,3 +1,8 @@
+## Sample Cases
+
+This is the sample case for the Infix to Postfix to Evaluation problem on stacks.
+`3-((5*4+4*3)/7+2)` converts to `354*43*+7/2+-` evaluates to `-3`
+
 ## Thematic Competitive Programming Problems
 
 * In a Sequence of Open and Closed Brackets, Identify the longest well-bracketed subsequence and count the total number of Disjoint well-bracketed subsequences. (https://codeforces.com/contest/5/problem/C)

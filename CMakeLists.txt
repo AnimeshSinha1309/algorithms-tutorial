@@ -8,3 +8,7 @@ add_executable(lab1_demo1
 add_executable(lab1_demo2
         code_introduction/fractions_class/fraction.c
         code_introduction/fractions_class/main.c)
+
+add_executable(lab2_demo1
+        code_stacks/expression_evaluation/stack.c
+        code_stacks/expression_evaluation/main.c)
